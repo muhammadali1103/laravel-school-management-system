@@ -3,13 +3,13 @@
 A complete School Management System built with Laravel Blade templates, Bootstrap 5, and MySQL. Features role-based authentication for Admin, Teacher, and Student with dedicated dashboards and modules.
 
 ## Admin Dashboard
-![Admin Dashboard](screenshots/admin.jpg)
+![Admin Dashboard](https://github.com/muhammadali1103/laravel-school-management-system/blob/efbc478c54672cf42ad4f6014967ac3b69bd11b7/screenshoots/admin.jpg)
 
 ## Teacher Dashboard
-![Teacher Dashboard](screenshots/teacher.jpg)
+![Teacher Dashboard](https://github.com/muhammadali1103/laravel-school-management-system/blob/efbc478c54672cf42ad4f6014967ac3b69bd11b7/screenshoots/teacher.jpg)
 
 ## Student Dashboard
-![Student Dashboard](screenshots/student.jpg)
+![Student Dashboard](https://github.com/muhammadali1103/laravel-school-management-system/blob/efbc478c54672cf42ad4f6014967ac3b69bd11b7/screenshoots/student.jpg)
 
 ## Requirements
 
